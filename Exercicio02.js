@@ -18,7 +18,7 @@ switch (semana) {
         console.log("sexta-feira")
         break;
 
-    case "6":
+    case "6":gigi
         console.log("sabado")
         break;
 
